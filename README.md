@@ -22,7 +22,7 @@ In this, YbToken is a smart contract implemnetd in Solidity. It includes basic f
 * It also takes two parameters but works opposite of what mint function do: an address and a value.
 * It will then deduct the value from the total supply and from the balace of the address.
 * It will have a condition so as to make sure that balance of the amount is greater than or equal to the amount which is to be burned.
-## Program1 Execution
+## Program Execution
 To run this program, we can use Remix, an online Solidity IDE.
 
 In this, three variables are declared for token name, abbreivation and total supply
